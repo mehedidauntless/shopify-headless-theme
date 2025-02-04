@@ -10,6 +10,7 @@
 {
   "current": {
     "storefront_hostname": "nextjs-commerce-brown-omega-11.vercel.app",
+    "custom_redirects": "/account/login > /login",
     "content_for_index": []
   }
 }
